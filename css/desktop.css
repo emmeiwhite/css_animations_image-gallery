@@ -1,2 +1,5 @@
 @media screen and (min-width: 960px) {
+  .column-2 {
+    width: 16.666%;
+  }
 }
