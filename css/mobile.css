@@ -88,14 +88,20 @@ h5 {
   /* border-right: 1px solid brown; */
 }
 
+.mainWrapper {
+  background: rgb(241, 182, 72);
+}
 .footerWrapper {
   text-align: center;
 }
 /* COLUMNS */
 .column-12,
-.column-6 {
+.column-6,
+.column-4,
+.column-3 {
   padding: 0.8rem 2%;
 }
+
 @media screen and (min-width: 360px) {
   .navigation ul li {
     max-width: 100%;
