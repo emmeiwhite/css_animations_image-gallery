@@ -2,4 +2,8 @@
   .column-2 {
     width: 16.666%;
   }
+
+  .navigation ul li a {
+    width: 25%;
+  }
 }
