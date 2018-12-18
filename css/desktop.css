@@ -6,4 +6,10 @@
   .navigation ul li a {
     width: 25%;
   }
+
+  .hero-image {
+    background-image: url("./../images/hero-desktop.jpg");
+    height: 70vh;
+    width: 100%;
+  }
 }

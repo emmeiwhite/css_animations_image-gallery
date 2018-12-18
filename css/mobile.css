@@ -63,6 +63,16 @@ h5 {
   color: rgb(255, 255, 255);
 }
 
+/* HERO-IMAGE */
+
+.hero-image {
+  background-image: url("./../images/hero-phone.jpg");
+  background-size: cover;
+  height: 40vh;
+  background-position: center;
+  margin: 1rem 0;
+}
+
 .navigation {
   background: greenyellow;
   margin-top: 1rem;

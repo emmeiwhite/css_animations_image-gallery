@@ -22,4 +22,11 @@
   .column-2 {
     width: 33.33%;
   }
+
+  /* For Hero Image */
+
+  .hero-image {
+    background-image: url("./../images/hero-tabler.jpg");
+    height: 60vh;
+  }
 }
