@@ -45,6 +45,12 @@ html {
   -o-transition: all 1s ease-in-out;
 }
 
+.head:hover {
+  width: 85%;
+  border-top-left-radius: 100%;
+  border-top-right-radius: 100%;
+}
+
 /* to make eyes for robot */
 .circle {
   height: 1rem;
